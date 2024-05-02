@@ -1,0 +1,7 @@
+=>For intstallation of requied modules you should have new release of pip(24.0) into your system.
+
+=>Required Module:
+1. numpy
+2. turtle
+3. Pillow
+pip list --outdated
